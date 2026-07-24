@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "id": "93c11a33-35d8-49b2-8a61-3709379fbcd8",
+      "name": "ambi",
+      "localPort": 8006
+    },
+    {
+      "id": "4b31730d-e5af-48e1-844f-6de5a81f0312",
+      "name": "FX-OSC",
+      "localPort": 7878,
+      "deviceHost": "127.0.0.1",
+      "devicePort": 7878
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EncoderPreset>
+  <AmbiSourceSet>
+    <DistanceScaler Factor="1.0"/>
+    <MasterGain Value="2.100000381469727"/>
+    <Sources>
+      <Source Uuid="4814c770dce347c690fe762d92b93be0" X="-0.4106518626213074"
+              Y="0.007897138595581055" Z="0.08143067359924316" Name="Local"
+              ColorCode="ffea0808" Gain="1.0" Mute="0" Enabled="1"/>
+      <Source Uuid="59de37bcd4534bb599a2fcbdfb61ce4f" X="0.4185490608215332"
+              Y="0.007897138595581055" Z="0.08143067359924316" Name="Loc_1"
+              ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="1"/>
+      <Source Uuid="7bdbc59a40c24c929968d441658973eb" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_2" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="460e1b86fd04401d9502ebb45a019c2d" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_3" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="05d3d451b7cb423eae788b664213ab1f" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_4" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="7d00fa092f0f4066829b426886f4a19f" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_5" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="4629564ca3c847dba0b0857e7ca16cac" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_6" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="f62ea91f464540c9a146c6bb40030e76" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_7" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="6094b61cb7b0422c88a8de1e6d2232e9" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_8" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="4d6da43ee1484f529a59ea69c27ed910" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_9" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="81335a244c0042e0add5e681fa5457ad" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_10" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="58075cfda89a4f2b8a0404df60ac1e3f" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_11" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="206bc5a42c694c6480be36436f935ded" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_12" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="c12d9a049f07496fa44c95282ade8435" X="0.0" Y="0.0" Z="0.0"
+              Name="Lov_13" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="ca36cd1596f24bbda6063d8b33f5a304" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_14" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="21f170968e9b4c0e93a2de7d4717e055" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_15" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="e3a5ff22c17641dc983feeeb716175ea" X="0.0" Y="0.0" Z="0.0"
+              Name="Loc_16" ColorCode="ff288bc6" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="ac7e8a231ba843fa9bd00d078a544c26" X="0.0" Y="0.0" Z="0.0"
+              Name="DAW_L" ColorCode="ff143f1e" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="e22e3800ded049919dad1df2aa1ead76" X="0.0" Y="0.0" Z="0.0"
+              Name="DAW_R" ColorCode="ff143f1e" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="16504a829dec464da3aa49304c6e1e27" X="0.0" Y="0.0" Z="0.0"
+              Name="20" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="b68cedb74f56462cba0b7e0f0a1c16c6" X="0.0" Y="0.0" Z="0.0"
+              Name="21" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="201a988bacf049de9a18289783275212" X="0.0" Y="0.0" Z="0.0"
+              Name="22" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="4777344724594059a0dc3e488e8fb7ac" X="0.0" Y="0.0" Z="0.0"
+              Name="23" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="cbb11e5b32044ddf941c1886aa9822da" X="0.0" Y="0.0" Z="0.0"
+              Name="24" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="e8471afc95ef43d8907f9c8f4357777e" X="0.0" Y="0.0" Z="0.0"
+              Name="25" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="98a58ee8aef046b1b03af4006b0f1ac5" X="0.0" Y="0.0" Z="0.0"
+              Name="26" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="ec57f03a4fa54231acdba5dac447eccf" X="0.0" Y="0.0" Z="0.0"
+              Name="27" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="dae4d3eef142445da4981bedca982567" X="0.0" Y="0.0" Z="0.0"
+              Name="28" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="72a857420b1349bf95ed111de41812b1" X="0.0" Y="0.0" Z="0.0"
+              Name="29" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="86757835389649e78b96e86fc2f9d6f6" X="0.0" Y="0.0" Z="0.0"
+              Name="30" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="3214af5a89f648e999fd909dd7677116" X="0.0" Y="0.0" Z="0.0"
+              Name="31" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="85c1b01b9e454671873dee1d003e3a5c" X="0.0" Y="0.0" Z="0.0"
+              Name="32" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="3232775f459143bf9d02b7f8e2c5d3d4" X="0.0" Y="0.0" Z="0.0"
+              Name="33" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="2d5e4814e46f4902b25795b138b17682" X="0.0" Y="0.0" Z="0.0"
+              Name="34" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="f8d0e6f5713e4f4183d3f48b6d0fbbfd" X="0.0" Y="0.0" Z="0.0"
+              Name="35" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="6cf32f3f03e14abf92322226a8d93773" X="0.0" Y="0.0" Z="0.0"
+              Name="36" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="c73ae0d68317481ba71b60b473a3881d" X="0.0" Y="0.0" Z="0.0"
+              Name="37" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="7516f9d339b44a789197acd09061956b" X="0.0" Y="0.0" Z="0.0"
+              Name="38" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="d224460f5c284dd89b25789a07abe807" X="0.0" Y="0.0" Z="0.0"
+              Name="39" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="a3e5b48e1fe349199e47d4aaa2e61657" X="0.0" Y="0.0" Z="0.0"
+              Name="40" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="e6782bdc56f44150944886179be93ebb" X="0.0" Y="0.0" Z="0.0"
+              Name="41" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="4f51f0586ea8438db2f6f9d3e01ff91e" X="0.0" Y="0.0" Z="0.0"
+              Name="42" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="8dbaa3aceb424615a02c97ef34d8625e" X="0.0" Y="0.0" Z="0.0"
+              Name="43" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="02b65228552d498787a436ca40d5271e" X="0.0" Y="0.0" Z="0.0"
+              Name="44" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="71ba2c8c510149a0b8f59c1eb34e5e2a" X="0.0" Y="0.0" Z="0.0"
+              Name="45" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="a3e043d4e166481f976d2ab3e701bdff" X="0.0" Y="0.0" Z="0.0"
+              Name="46" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="abead57aa2074388a5b00f061d65e3d1" X="0.0" Y="0.0" Z="0.0"
+              Name="47" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="d17ffc83702445fda7a96aee56ce5adf" X="0.0" Y="0.0" Z="0.0"
+              Name="48" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="a65026301d2e4768a7d445901d37765b" X="0.0" Y="0.0" Z="0.0"
+              Name="49" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="52979311c8e342fe89b6ca1883826518" X="0.0" Y="0.0" Z="0.0"
+              Name="50" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="4c84c8b0c7034a5d9d6dd3ee9f42eab8" X="0.0" Y="0.0" Z="0.0"
+              Name="51" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="60af8ee0a74f4d5484f54649228eae6a" X="0.0" Y="0.0" Z="0.0"
+              Name="52" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="66525b3bf7a14dc7abf51e1f6f8f95d2" X="0.0" Y="0.0" Z="0.0"
+              Name="53" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="58d91f6ade994d8db9f88d880e8ec7b6" X="0.0" Y="0.0" Z="0.0"
+              Name="54" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="c708d934adff46f8aee15063accba476" X="0.0" Y="0.0" Z="0.0"
+              Name="55" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="2a5eff290fcd417ea3f35d1c50c53100" X="0.0" Y="0.0" Z="0.0"
+              Name="56" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="e0a192f4b9b84246b3e3c4be8bf725d0" X="0.0" Y="0.0" Z="0.0"
+              Name="57" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="25ecfa3933b24ad292761c243a8431f6" X="0.0" Y="0.0" Z="0.0"
+              Name="58" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="7e45235243c445d3afeee75f03062539" X="0.0" Y="0.0" Z="0.0"
+              Name="59" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="3bcc83d1ec9340f6a97e2f392d846c38" X="0.0" Y="0.0" Z="0.0"
+              Name="60" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="b21a19acd5704246b61fa2eab1a11697" X="0.0" Y="0.0" Z="0.0"
+              Name="61" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="ce872db0981f434a8609a57b22d6864d" X="0.0" Y="0.0" Z="0.0"
+              Name="62" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="59dfea885af84ce4a45f94c9c7bbc028" X="0.0" Y="0.0" Z="0.0"
+              Name="63" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+      <Source Uuid="bbfc7dbd62104f99a2b27f7d3abc1d15" X="0.0" Y="0.0" Z="0.0"
+              Name="64" ColorCode="ff000000" Gain="1.0" Mute="0" Enabled="0"/>
+    </Sources>
+    <Groups>
+      <Group Uuid="795fc5fc6b6a404abf0d8004098faa21" X="0.1026630401611328"
+             Y="0.4659318923950195" Z="0.0" Name="DAW" ColorCode="ff143f1e"
+             Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.9991870521994101" Q3="0.04031419994311435"/>
+        <Stretch Factor="0.6175303906202316"/>
+      </Group>
+      <Group Uuid="89a2d747f2b84fe5bee9189f5c2f5d13" X="0.0" Y="0.0" Z="0.0"
+             Name="G2" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="ebe97b2f28f8422c973ead0a87630ba4" X="0.0" Y="0.0" Z="0.0"
+             Name="G3" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="4db6a0ccf11d4c77bb634d16058988fc" X="0.0" Y="0.0" Z="0.0"
+             Name="G4" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="b4b6eb43b2854e6fbebbd37d07a3b412" X="0.0" Y="0.0" Z="0.0"
+             Name="G5" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="d990e7f78ec84926aaef3fab1251827f" X="0.0" Y="0.0" Z="0.0"
+             Name="G6" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="f37c71d444e0405a80aba8ee4a88ba09" X="0.0" Y="0.0" Z="0.0"
+             Name="G7" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+      <Group Uuid="fd4c5e8e352a47f8971a4c6c3107a963" X="0.0" Y="0.0" Z="0.0"
+             Name="G8" ColorCode="ffff4500" Gain="1.0" Mute="0" Enabled="0">
+        <SubPoints/>
+        <Rotation Q0="0.0" Q1="0.0" Q2="0.0" Q3="1.0"/>
+        <Stretch Factor="1.0"/>
+      </Group>
+    </Groups>
+  </AmbiSourceSet>
+</EncoderPreset>
